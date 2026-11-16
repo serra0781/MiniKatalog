@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Kablosuz Kulaklık",
+    "category": "Elektronik",
+    "price": 1299.90,
+    "image": "assets/images/kulaklik.png",
+    "rating": 4.6,
+    "description": "Bluetooth 5.3 destekli, 30 saate kadar pil ömrü sunan hafif kulaküstü kulaklık. Katlanabilir yapısıyla çantada az yer kaplar."
+  },
+  {
+    "id": 2,
+    "name": "Seramik Kupa",
+    "category": "Ev",
+    "price": 249.90,
+    "image": "assets/images/kupa.png",
+    "rating": 4.8,
+    "description": "El yapımı, pastel tonlarda seramik kupa. 350 ml hacimli, bulaşık makinesinde yıkanabilir."
+  },
+  {
+    "id": 3,
+    "name": "Spiral Defter",
+    "category": "Kırtasiye",
+    "price": 89.90,
+    "image": "assets/images/defter.png",
+    "rating": 4.4,
+    "description": "A5 boyutunda, 120 yaprak noktalı spiral defter. Ders notları ve bullet journal için ideal."
+  },
+  {
+    "id": 4,
+    "name": "Kokulu Mum",
+    "category": "Ev",
+    "price": 179.90,
+    "image": "assets/images/mum.png",
+    "rating": 4.7,
+    "description": "Vanilya ve lavanta kokulu soya mumu. Yaklaşık 40 saat yanma süresi."
+  },
+  {
+    "id": 5,
+    "name": "Saksı Bitkisi",
+    "category": "Ev",
+    "price": 159.90,
+    "image": "assets/images/bitki.png",
+    "rating": 4.5,
+    "description": "Bakımı kolay, seramik saksıda iç mekan bitkisi. Masa ve raflar için uygun boyutta."
+  },
+  {
+    "id": 6,
+    "name": "Bez Çanta",
+    "category": "Aksesuar",
+    "price": 199.90,
+    "image": "assets/images/canta.png",
+    "rating": 4.3,
+    "description": "%100 pamuklu, iç cepli bez çanta. Günlük kullanım ve alışveriş için dayanıklı."
+  },
+  {
+    "id": 7,
+    "name": "Akıllı Saat",
+    "category": "Elektronik",
+    "price": 2499.90,
+    "image": "assets/images/saat.png",
+    "rating": 4.6,
+    "description": "Adım sayar, nabız ölçer ve bildirim özellikli akıllı saat. Suya dayanıklı, 7 gün pil ömrü."
+  },
+  {
+    "id": 8,
+    "name": "Güneş Gözlüğü",
+    "category": "Aksesuar",
+    "price": 399.90,
+    "image": "assets/images/gozluk.png",
+    "rating": 4.2,
+    "description": "UV400 korumalı, hafif çerçeveli güneş gözlüğü. Koruyucu kılıfı ile birlikte gelir."
+  },
+  {
+    "id": 9,
+    "name": "Kalem Seti",
+    "category": "Kırtasiye",
+    "price": 129.90,
+    "image": "assets/images/kalem.png",
+    "rating": 4.9,
+    "description": "12 renkli pastel fosforlu kalem seti. Çift uçlu, kurumaya karşı dayanıklı."
+  },
+  {
+    "id": 10,
+    "name": "Polaroid Kamera",
+    "category": "Elektronik",
+    "price": 3299.90,
+    "image": "assets/images/kamera.png",
+    "rating": 4.7,
+    "description": "Anında baskı yapan, otomatik flaşlı retro tasarımlı fotoğraf makinesi."
+  }
+]
